@@ -1,0 +1,18 @@
+深圳市德贤餐饮管理有限公司
+Shenzhen Dexian Catering Management Co., Ltd.
+股东账目
+Shareholder accounts
+
+https://github.com/heshicaihao/Dexian.git
+
+
+公司文件
+https://github.com/heshicaihao/Dexian.git/trunk/公司文件
+
+
+前期投入 （截止20190131）
+https://github.com/heshicaihao/Dexian.git/trunk/前期投入
+
+
+日常支出 （始于20190131）
+https://github.com/heshicaihao/Dexian.git/trunk/日常支出
